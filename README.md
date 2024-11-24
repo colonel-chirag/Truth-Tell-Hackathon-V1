@@ -27,10 +27,6 @@ To foster critical thinking and encourage users to question and verify informati
 
 ---
 
-Here’s a polished version of your **Target Audience** section for the README, structured for clarity and brevity:  
-
----
-
 ## 🎯 Target Audience  
 
 ### Industries & Use Cases  
@@ -52,9 +48,8 @@ Here’s a polished version of your **Target Audience** section for the README, 
 
 This table provides a clear and actionable overview for different audiences and their specific use cases.
 
-Here’s a polished version of your **Technical Approach** and **User Interface/Interaction** sections, structured for readability and clarity:  
-
----
+🚩 Potential Ways Misinformation Spreads
+<img width="386" alt="image" src="https://github.com/user-attachments/assets/52082b1a-758a-465e-8ee2-9d98cc61521b">
 
 ## 🔧 Technical Approach  
 ### Workflow of the Real-Time Misinformation Detection System  
