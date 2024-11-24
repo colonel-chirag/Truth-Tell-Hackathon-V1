@@ -58,7 +58,7 @@ Here’s a polished version of your **Technical Approach** and **User Interface/
 
 ## 🔧 Technical Approach  
 ### Workflow of the Real-Time Misinformation Detection System  
-![truthtell hackathon diagram](https://github.com/user-attachments/assets/4e9a4640-6f64-40ae-bf0e-9e09081e6729)
+![truthtell hackathon diagram (1)](https://github.com/user-attachments/assets/f2db9564-4c5a-4988-9d2c-4b388ef90d7c)
 
 
 1. **Data Ingestion (Apache Kafka)**  
